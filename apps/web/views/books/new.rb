@@ -1,3 +1,4 @@
+# typed: strong
 module Web::Views::Books
   class New
     include Web::View

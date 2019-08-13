@@ -1,3 +1,4 @@
+# typed: ignore
 require 'spec_helper'
 require_relative '../../../../apps/web/views/books/create'
 

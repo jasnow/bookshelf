@@ -1,3 +1,4 @@
+# typed: false
 require 'hanami/helpers'
 require 'hanami/assets'
 

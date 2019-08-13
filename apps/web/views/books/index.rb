@@ -1,3 +1,4 @@
+# typed: strong
 module Web::Views::Books
   class Index
     include Web::View

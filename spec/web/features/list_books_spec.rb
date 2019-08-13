@@ -1,3 +1,4 @@
+# typed: false
 require 'features_helper'
 
 describe 'List books' do

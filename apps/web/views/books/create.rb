@@ -1,3 +1,4 @@
+# typed: strict
 module Web::Views::Books
   class Create
     include Web::View

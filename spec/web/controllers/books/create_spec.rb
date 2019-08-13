@@ -1,3 +1,4 @@
+# typed: false
 require 'spec_helper'
 require_relative '../../../../apps/web/controllers/books/create'
 

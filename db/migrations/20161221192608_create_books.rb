@@ -1,3 +1,4 @@
+# typed: false
 Hanami::Model.migration do
   change do
     create_table :books do

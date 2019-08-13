@@ -1,3 +1,4 @@
+# typed: strong
 module Web
   module Views
     class ApplicationLayout

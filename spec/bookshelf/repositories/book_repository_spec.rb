@@ -1,3 +1,4 @@
+# typed: strong
 require 'spec_helper'
 
 describe BookRepository do

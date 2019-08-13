@@ -1,3 +1,4 @@
+# typed: false
 module Web::Controllers::Books
   class Create
     include Web::Action

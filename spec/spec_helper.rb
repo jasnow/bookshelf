@@ -1,3 +1,4 @@
+# typed: strict
 # Require this file for unit tests
 ENV['HANAMI_ENV'] ||= 'test'
 

@@ -1,3 +1,4 @@
+# typed: true
 module Web::Controllers::Books
   class Index
     include Web::Action

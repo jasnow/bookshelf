@@ -24,3 +24,9 @@ end
 group :production do
   # gem 'puma'
 end
+
+gem 'sorbet', :group => :development
+gem 'sorbet-runtime'
+gem 'sorbet-rails'
+gem 'redis' # for cache_store
+gem 'dalli' # for cache_store
